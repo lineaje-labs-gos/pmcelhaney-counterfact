@@ -1,6 +1,6 @@
 {
   "name": "counterfact",
-  "version": "1.4.0",
+  "version": "1.4.0-lineaje-01",
   "description": "a library for building a fake REST API for testing",
   "type": "module",
   "main": "./dist/app.js",
@@ -8,7 +8,16 @@
   "types": "./dist/server/types.d.ts",
   "author": "Patrick McElhaney <pmcelhaney@gmail.com> (https://patrickmcelhaney.com)",
   "license": "MIT",
-  "repository": "github:pmcelhaney/counterfact",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/pmcelhaney-counterfact"
+  },
   "bugs": "https://github.com/pmcelhaney/counterfact/issues",
   "keywords": [
     "counterfact",
