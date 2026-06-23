@@ -104,7 +104,7 @@
     "debug": "4.4.1",
     "fetch": "1.1.0",
     "fs-extra": "11.3.0",
-    "handlebars": "4.7.8",
+    "handlebars": ">=4.7.9",
     "http-terminator": "3.2.0",
     "js-yaml": "4.1.0",
     "json-schema-faker": "0.5.9",
@@ -124,9 +124,11 @@
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e",
   "overrides": {
-    "lodash": ">=4.18.1"
+    "lodash": ">=4.18.1",
+    "handlebars": ">=4.7.9"
   },
   "resolutions": {
-    "lodash": ">=4.18.1"
+    "lodash": ">=4.18.1",
+    "handlebars": ">=4.7.9"
   }
 }
