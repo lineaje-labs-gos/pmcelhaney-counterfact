@@ -1,6 +1,6 @@
 {
   "name": "counterfact",
-  "version": "1.4.0-lineaje-01",
+  "version": "1.4.0-lineaje-02",
   "description": "a library for building a fake REST API for testing",
   "type": "module",
   "main": "./dist/app.js",
@@ -9,6 +9,10 @@
   "author": "Patrick McElhaney <pmcelhaney@gmail.com> (https://patrickmcelhaney.com)",
   "license": "MIT",
   "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    },
     {
       "name": "Lineaje DepFixer",
       "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
